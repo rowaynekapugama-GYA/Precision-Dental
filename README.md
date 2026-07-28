@@ -22,14 +22,9 @@ output directory `./`.
 ## Before sending
 
 Practice (Precision Dental) and principal (Dr Billy Choi) are set
-throughout. One optional placeholder remains, highlighted gold
-with a dotted underline in §10:
+throughout. No placeholders remain — the document is ready to send.
 
-- **David Hills' background** — drop in his experience / track
-  record, or delete the line to omit it. It's the only placeholder
-  in the document.
-
-Also confirm before it goes out:
+Confirm before it goes out:
 - **Tier pricing** in §12 (Foundation $1,690, Growth $2,500,
   Growth Partnership custom) — indicative, adjust to your rates.
 - **Media budget** ranges in §12.2.
